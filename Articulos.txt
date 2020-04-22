@@ -1,0 +1,4 @@
+Coca cola: Precio: 1.0, Unidades: 55 
+Fresca: Precio: 2.0, Unidades: 30 
+Fresa: Precio: 2.0, Unidades: 40 
+Pepsi: Precio: 9.0, Unidades: 10
